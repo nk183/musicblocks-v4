@@ -1,0 +1,2 @@
+(this.webpackJsonpmusicblocks=this.webpackJsonpmusicblocks||[]).push([[37],{100:function(e){e.exports=JSON.parse('{"components":[{"name":"menu"},{"name":"editor","parents":["menu"]},{"name":"painter","parents":["menu"],"elements":true}]}')}}]);
+//# sourceMappingURL=37.f55e8fc6.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpmusicblocks=this.webpackJsonpmusicblocks||[]).push([[36],{42:function(s,c,i){"use strict";i.r(c),c.default=i.p+"static/media/mouse.19733222.svg"}}]);
+//# sourceMappingURL=36.b44a23c3.chunk.js.map

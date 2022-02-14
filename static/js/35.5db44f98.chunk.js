@@ -1,0 +1,2 @@
+(this.webpackJsonpmusicblocks=this.webpackJsonpmusicblocks||[]).push([[35],{36:function(s,c,t){"use strict";t.r(c),c.default=t.p+"static/media/stop.3b566c06.svg"}}]);
+//# sourceMappingURL=35.5db44f98.chunk.js.map
